@@ -10,6 +10,7 @@
       val_dir =  pathlib.Path('/content/drive/MyDrive/Kaggle/seg_test/seg_test')
 
 
+## Step - 2:
 
               precision    recall  f1-score   support
 
