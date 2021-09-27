@@ -14,6 +14,6 @@ and Achieved 89.9 % accuracy with 89 % precision and recall.
 
 
     accuracy                          0.899      3000
-   macro avg      0.901     0.902     0.901      3000
-weighted avg      0.899     0.899     0.898      3000
+    macro avg      0.901     0.902     0.901      3000
+    weighted avg      0.899     0.899     0.898      3000
 
