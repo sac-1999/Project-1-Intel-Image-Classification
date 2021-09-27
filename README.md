@@ -1,7 +1,8 @@
 # Project-1-Intel-Image-Classification
 
 ## Step - 1:
-Upload data to following path in google drive 
+* Download Intel Image Dataset from kaggle and load into drive "https://www.kaggle.com/puneet6060/intel-image-classification"
+* Upload data to following path in google drive 
         
 
       train_dir = pathlib.Path('/content/drive/MyDrive/Kaggle/seg_train/seg_train')
