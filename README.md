@@ -2,9 +2,12 @@
 
 ## Step - 1:
 Upload data to following path in google drive 
-* train_dir = pathlib.Path('/content/drive/MyDrive/Kaggle/seg_train/seg_train')
-* pred_dir =  pathlib.Path('/content/drive/MyDrive/Kaggle/seg_pred/seg_pred')
-* val_dir =  pathlib.Path('/content/drive/MyDrive/Kaggle/seg_test/seg_test')
+        
+
+      train_dir = pathlib.Path('/content/drive/MyDrive/Kaggle/seg_train/seg_train')
+      pred_dir =  pathlib.Path('/content/drive/MyDrive/Kaggle/seg_pred/seg_pred')
+      val_dir =  pathlib.Path('/content/drive/MyDrive/Kaggle/seg_test/seg_test')
+
 
 
               precision    recall  f1-score   support
