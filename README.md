@@ -1,6 +1,10 @@
 # Project-1-Intel-Image-Classification
-This project takes image dataset(14 k images) from kaggle and I have done experiment in finding better accuracy using tensorflow. 
-and Achieved 89.9 % accuracy with 89 % precision and recall.
+
+## Step - 1:
+Upload data to following path in google drive 
+train_dir = pathlib.Path('/content/drive/MyDrive/Kaggle/seg_train/seg_train')
+pred_dir =  pathlib.Path('/content/drive/MyDrive/Kaggle/seg_pred/seg_pred')
+val_dir =  pathlib.Path('/content/drive/MyDrive/Kaggle/seg_test/seg_test')
 
 
               precision    recall  f1-score   support
@@ -13,7 +17,7 @@ and Achieved 89.9 % accuracy with 89 % precision and recall.
            5      0.896     0.928     0.912       501
 
 
-    accuracy                          0.899      3000
+    accuracy                           0.899      3000
     macro avg      0.901     0.902     0.901      3000
-    weighted avg      0.899     0.899     0.898      3000
+    weighted avg   0.899     0.899     0.898      3000
 
