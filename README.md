@@ -28,7 +28,7 @@
 * Achieved almost 90% accuracy with 89% F1-Score
 
 
-### CLASSIFICATION REPORT
+#### CLASSIFICATION REPORT
 
               precision    recall  f1-score   support
 
@@ -46,7 +46,7 @@
     
     
     
-### Confusion Matrix:
+#### Confusion Matrix:
             
             [[390   0   0   0   3  44]
              [  0 471   0   2   1   0]
@@ -62,7 +62,7 @@
 * loaded the dataset by using fetch_dataset.py file and then creted a model (Xception) by using keras transfer learning (include_top = False). 
 * Achieved almost 91.10 % accuracy with 90% F1-Score.
 
-### CLASSIFICATION REPORT:
+#### CLASSIFICATION REPORT:
 
 
               precision    recall  f1-score   support
@@ -79,7 +79,7 @@
       weighted avg  0.910     0.911     0.910      3000
       
       
-### Confusion Matrix: 
+#### Confusion Matrix: 
 
 
             [[390   0   0   1   5  41]
