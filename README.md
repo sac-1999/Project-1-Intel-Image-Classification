@@ -19,8 +19,7 @@
 * If you want to train your own model then please Manually open colab notebooks enable GPU and run each cell accordingly.
 * If you want to only predict for a set of images then also manually go to colab notebooks and run model architecture cell and load already uploaded model check points.
       
-      
-
+      model.load_weights(checkpoint_filepath)
 
 
 
